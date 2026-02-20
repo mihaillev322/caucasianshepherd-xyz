@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caucasianshepherd.xyz/sitemap.xml
